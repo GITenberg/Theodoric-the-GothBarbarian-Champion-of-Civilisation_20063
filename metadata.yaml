@@ -1,0 +1,31 @@
+_repo: Theodoric-the-GothBarbarian-Champion-of-Civilisation_20063
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hodgkin, Thomas
+    birthdate: 1831
+    deathdate: 1913
+    gutenberg_agent_id: '8136'
+    url: http://www.gutenberg.org/2009/agents/8136
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Hodgkin_(historian)
+description: ''
+gutenberg_issued: '2006-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theodoric, King of the Ostrogoths, 454?-526'
+- !lcsh 'Ostrogoths -- Kings and rulers -- Biography'
+- !lcc 'DG'
+- !lcsh 'Ostrogoths -- Italy -- History'
+- !lcsh 'Italy -- Kings and rulers -- Biography'
+- !lcsh 'Italy -- History -- 476-774'
+title: 'Theodoric the Goth: Barbarian Champion of Civilisation'
+url: http://www.gutenberg.org/ebooks/20063
